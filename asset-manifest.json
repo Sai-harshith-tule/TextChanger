@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextChanger/static/css/main.32ecbee2.css",
+    "main.js": "/TextChanger/static/js/main.89aeb70f.js",
+    "static/js/453.ed3810f9.chunk.js": "/TextChanger/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/TextChanger/index.html",
+    "main.32ecbee2.css.map": "/TextChanger/static/css/main.32ecbee2.css.map",
+    "main.89aeb70f.js.map": "/TextChanger/static/js/main.89aeb70f.js.map",
+    "453.ed3810f9.chunk.js.map": "/TextChanger/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32ecbee2.css",
+    "static/js/main.89aeb70f.js"
+  ]
+}
